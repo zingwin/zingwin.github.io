@@ -4,7 +4,7 @@
  <title>Steven Pan's Blog</title>
  <link href="http://www.stevenpan.me/atom.xml" rel="self"/>
  <link href="http://www.stevenpan.me"/>
- <updated>2014-10-17T17:36:59+08:00</updated>
+ <updated>2014-10-17T17:38:49+08:00</updated>
  <author>
    <name></name>
    <email></email>
@@ -17,7 +17,7 @@
    <updated>2014-10-17T00:00:00+08:00</updated>
    <id>/tool/Markdown基本使用方式</id>
    <content type="html">&lt;p&gt;在使用github pages 制作自己的个人博客的时候，github推荐使用Jekyll这个引擎。对于写博客是可以是html的形式（个人感觉不太高级），也可以使用Markdown语法，推荐使用这个，一来显得逼格高，二来写博客的时候比较省事，以下就介绍下Markdown常用语法。
-大家也可以看下官方文档：http://daringfireball.net/projects/markdown/syntax&lt;/p&gt;
+大家也可以看下官方文档：&lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax0&quot;&gt;http://daringfireball.net/projects/markdown/syntax0&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2&gt;段落标题&lt;/h2&gt;
 
